@@ -4,7 +4,7 @@
 Bachelor, System Information
 
 ### Working Experience
-Maintenance @Pt. Telkom Akses Malang
+Maintenance @Telkom Akses Malang
 - Preventive infrastructure network active in Malang area.
 
 ### Project
